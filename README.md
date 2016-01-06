@@ -10,3 +10,7 @@ Offer your customers premium delivery service with Send24 Sameday Express soluti
 
 == 1.0.0 ==
 * First release
+
+
+[![Latest Stable Version](https://poser.pugx.org/barbotkin/send24-for-prestashop/v/stable)](https://packagist.org/packages/barbotkin/send24-for-prestashop)
+[![License](https://poser.pugx.org/barbotkin/send24-for-prestashop/license.svg)](http://opensource.org/licenses/GPL-3.0)
