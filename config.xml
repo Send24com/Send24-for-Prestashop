@@ -3,7 +3,7 @@
 	<name>send24</name>
 	<displayName><![CDATA[Send24 Shipping]]></displayName>
 	<version><![CDATA[1.0.0]]></version>
-	<description><![CDATA[Offer your customers premium delivery service with Send24 Sameday Express solution. Easy integration into your webshop. Fast and secure delivery service from door to door.]]></description>
+	<description><![CDATA[Offer your customers premium delivery service with Send24 Sameday Express solution.Easy integration into your webshop. Fast and secure delivery service from door to door.]]></description>
 	<author><![CDATA[Roman Barbotkin]]></author>
 	<tab><![CDATA[shipping_logistics]]></tab>
 	<confirmUninstall><![CDATA[Are you sure you want to uninstall?]]></confirmUninstall>
